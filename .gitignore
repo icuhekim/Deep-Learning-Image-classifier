@@ -1,3 +1,15 @@
 __pycache__
 .env
 .learn
+# Dogs vs Cats dataset - too large for GitHub
+data/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+models/best_cnn.keras
+models/best_cnn_v3.keras
